@@ -1,0 +1,5 @@
+{
+  "name": "Starlink Ticket Access Portal",
+  "description": "A professional MikroTik Hotspot login and status management system designed for Starlink ticket businesses in Nigeria, featuring mobile-responsive design and CHAP authentication support.",
+  "requestFramePermissions": []
+}
